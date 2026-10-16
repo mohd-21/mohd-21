@@ -38,12 +38,11 @@ I like bringing DevOps practices (version control, pipelines, automated testing 
 
 ## 🚀 Featured Projects
 
-> _Replace these with your pinned repos as you finish them._
+### [devops-platform](https://github.com/mohd-21/devops-platform)
+End-to-end DevOps platform: a Flask API with a multi-stage Docker build, GitHub Actions CI/CD (test, validate, build, scan, deploy), Kubernetes manifests, Terraform for AWS and Prometheus/Grafana monitoring with alert rules.
 
-- **CI/CD Pipeline with GitHub Actions**: build, test, containerize and deploy automatically
-- **Terraform AWS Infrastructure**: reproducible cloud environments as code
-- **Kubernetes + Monitoring**: app deployment with Prometheus and Grafana dashboards
-- **ServiceNow Automation**: scripts and integrations built with the SDK
+### [servicenow-devops-automation](https://github.com/mohd-21/servicenow-devops-automation)
+ServiceNow incident auto-triage (Script Include, Business Rule, scheduled escalation) plus a pipeline integration that opens and closes change requests from GitHub Actions. Unit tested with mocked platform APIs.
 
 ---
 
