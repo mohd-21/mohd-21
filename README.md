@@ -48,6 +48,9 @@ End-to-end DevOps platform: a Flask API with a multi-stage Docker build, GitHub 
 ### [servicenow-devops-automation](https://github.com/mohd-21/servicenow-devops-automation)
 ServiceNow incident auto-triage (Script Include, Business Rule, scheduled escalation) plus a pipeline integration that opens and closes change requests from GitHub Actions. Unit tested with mocked platform APIs.
 
+### [timber-track-servicenow](https://github.com/mohd-21/timber-track-servicenow)
+ServiceNow order, procurement and returns automation built from my internship project: payment, stock check, pick and pack, delivery, automatic restocking, two approval gates for procurement and refunds. ES5 Script Includes with 58 tests against a mocked platform.
+
 ---
 
 ## 📚 Currently
