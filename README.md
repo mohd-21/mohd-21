@@ -14,7 +14,8 @@ I build and automate the path from code to production: containerized apps, infra
 |---|---|
 | **Containers & Orchestration** | Docker, Kubernetes |
 | **Infrastructure as Code** | Terraform |
-| **CI/CD** | GitHub Actions |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **Code Quality & Security** | SonarQube, Trivy |
 | **Cloud** | AWS |
 | **Monitoring** | Prometheus, Grafana |
 | **Scripting & Languages** | Python, JavaScript, Bash |
@@ -37,6 +38,9 @@ I like bringing DevOps practices (version control, pipelines, automated testing 
 ---
 
 ## 🚀 Featured Projects
+
+### [jenkins-cicd-pipeline](https://github.com/mohd-21/jenkins-cicd-pipeline)
+Jenkins CI/CD with Docker: tests, SonarQube quality gate, Trivy image scan, registry push, staging deploy with smoke test and automatic rollback, and a manual approval before production. Jenkins itself is configured as code.
 
 ### [devops-platform](https://github.com/mohd-21/devops-platform)
 End-to-end DevOps platform: a Flask API with a multi-stage Docker build, GitHub Actions CI/CD (test, validate, build, scan, deploy), Kubernetes manifests, Terraform for AWS and Prometheus/Grafana monitoring with alert rules.
