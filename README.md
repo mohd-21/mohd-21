@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Mohammad Jamkhandi 👋
 
-<!--
-**mohd-21/mohd-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer | Cloud, CI/CD & Automation | ServiceNow Developer**
 
-Here are some ideas to get you started:
+I build and automate the path from code to production: containerized apps, infrastructure as code, CI/CD pipelines, and monitoring. I also work on the ServiceNow platform, writing server-side and client-side scripts and building integrations and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 India  |  💼 [LinkedIn](https://www.linkedin.com/in/mohammad-jamkhandi-7682932a2)
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **Infrastructure as Code** | Terraform |
+| **CI/CD** | GitHub Actions |
+| **Cloud** | AWS |
+| **Monitoring** | Prometheus, Grafana |
+| **Scripting & Languages** | Python, JavaScript, Bash |
+| **ServiceNow** | Business Rules, Client Scripts, Script Includes, Flow Designer, REST/SOAP Integrations, ServiceNow SDK |
+
+---
+
+## 🔷 ServiceNow
+
+I work with ServiceNow as a developer and follow the community closely. Areas I work in:
+
+- **Scripting:** Business Rules, Client Scripts, UI Policies, Script Includes, GlideRecord / GlideAjax patterns
+- **Automation:** Flow Designer, Workflow, Scheduled Jobs, Notifications
+- **Integrations:** REST/SOAP APIs, integration with external tools and pipelines
+- **Modern development:** the [ServiceNow SDK](https://github.com/mohd-21/sdk-examples) (TypeScript) for building and deploying apps as code
+- **Learning in public:** I keep a fork of the community [code-snippets](https://github.com/mohd-21/Servicenow-code-snippets) repo and study patterns from it
+
+I like bringing DevOps practices (version control, pipelines, automated testing and deployment) to ServiceNow development.
+
+---
+
+## 🚀 Featured Projects
+
+> _Replace these with your pinned repos as you finish them._
+
+- **CI/CD Pipeline with GitHub Actions**: build, test, containerize and deploy automatically
+- **Terraform AWS Infrastructure**: reproducible cloud environments as code
+- **Kubernetes + Monitoring**: app deployment with Prometheus and Grafana dashboards
+- **ServiceNow Automation**: scripts and integrations built with the SDK
+
+---
+
+## 📚 Currently
+
+- Building hands-on DevOps projects end to end
+- Going deeper on Kubernetes and Terraform
+- Applying CI/CD practices to ServiceNow delivery
+
+---
+
+## 📫 Let's connect
+
+Open to DevOps and ServiceNow opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-jamkhandi-7682932a2).
