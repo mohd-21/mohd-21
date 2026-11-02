@@ -49,7 +49,7 @@ End-to-end DevOps platform: a Flask API with a multi-stage Docker build, GitHub 
 ServiceNow incident auto-triage (Script Include, Business Rule, scheduled escalation) plus a pipeline integration that opens and closes change requests from GitHub Actions. Unit tested with mocked platform APIs.
 
 ### [timber-track-servicenow](https://github.com/mohd-21/timber-track-servicenow)
-ServiceNow order, procurement and returns automation built from my internship project: payment, stock check, pick and pack, delivery, automatic restocking, two approval gates for procurement and refunds. ES5 Script Includes with 58 tests against a mocked platform.
+ServiceNow order, procurement and returns automation from our internship project (TimberTrack): payment and receipts, stock check, pick and pack, delivery, automatic restocking, tiered purchase-order approvals and refund approvals. Follows the real app's data model and rules; ES5 Script Includes with 67 tests against a mocked platform.
 
 ---
 
